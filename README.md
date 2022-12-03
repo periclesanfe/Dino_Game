@@ -4,7 +4,7 @@
 Clonagem do jogo do dinossauro, em python, nativo do navegador Google Chrome
 
 ## DOWNLOAD E TESTES
-1. clone o repositório em sua máquina
+1. clone o repositório em sua máquina ou faça o download do arquivo .zip e descompacte-o
 2. Na pasta estarão presentes dois arquivos renomeados como 'dino"
 3. Execute 'dino.exe' para jogar e testar
 
