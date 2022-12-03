@@ -1,7 +1,7 @@
 # DINO_GAME
 
 ## DESCRIÇÃO
-Clonagem do jogo do dinossauro nativo do navegador Google Chrome
+Clonagem do jogo do dinossauro, em python, nativo do navegador Google Chrome
 
 ## DOWNLOAD E TESTES
 1. clone o repositório em sua máquina
